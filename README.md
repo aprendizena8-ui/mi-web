@@ -63,7 +63,7 @@ El presentador del video introdujo una variedad de comandos, tanto comandos esen
 
 ---
 
-### I. Comandos de la Terminal (Introducción)
+### 1. Comandos de la Terminal (Introducción)
 
 El presentador recomienda usar **Git Bash** en Windows en lugar de la terminal de Windows (CMD) para que los comandos funcionen correctamente. Los siguientes comandos se utilizan para la navegación básica en el sistema de archivos:
 
@@ -80,7 +80,7 @@ El presentador recomienda usar **Git Bash** en Windows en lugar de la terminal d
 
 ---
 
-### II. Comandos de Configuración de Git
+### 2. Comandos de Configuración de Git
 
 Estos comandos se utilizan al inicio para configurar cómo Git debe operar de manera global o local:
 
@@ -97,7 +97,7 @@ Estos comandos se utilizan al inicio para configurar cómo Git debe operar de ma
 
 ---
 
-### III. Flujo de Trabajo (Stage, Commit y Archivos)
+### 3. Flujo de Trabajo (Stage, Commit y Archivos)
 
 Estos comandos son el núcleo del flujo de trabajo diario de Git, moviendo cambios del directorio de trabajo al *stage* y finalmente al historial (*commit*):
 
@@ -124,7 +124,7 @@ Estos comandos son el núcleo del flujo de trabajo diario de Git, moviendo cambi
 
 ---
 
-### IV. Historial y Ramas (Branching)
+### 4. Historial y Ramas (Branching)
 
 Estos comandos permiten revisar la historia de los cambios y trabajar de manera paralela usando ramas (*branches*):
 
@@ -137,7 +137,7 @@ Estos comandos permiten revisar la historia de los cambios y trabajar de manera 
 
 ---
 
-### V. Operaciones Remotas (Subir a la Nube)
+### 5. Operaciones Remotas (Subir a la Nube)
 
 Estos comandos se utilizan para conectar el repositorio local con un servidor en la nube (como GitHub) y sincronizar los cambios:
 
