@@ -145,3 +145,13 @@ Estos comandos se utilizan para conectar el repositorio local con un servidor en
 *   **`git push -u origin [rama]`**: Sube los cambios locales (*commits*) al servidor remoto.
     *   La primera vez que se sube una rama, se usa la opción **`-u`** (o `--set-upstream`) para indicarle a Git que cree esa rama en el repositorio remoto, seguido del nombre del origen (`origin`) y la rama (ej. `main` o `rama-c`).
 *   **`git push`**: Una vez configurado el *upstream*, este comando sube los cambios futuros (modificaciones y *commits*) al servidor.
+
+
+
+
+![4bd723f5-8bf7-4c17-962e-208a465f6dab](https://github.com/user-attachments/assets/33d4e9fe-5b76-43fc-a601-4c55c8ad247c)
+
+
+
+
+
